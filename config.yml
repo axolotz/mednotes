@@ -1,4 +1,4 @@
-baseURL: http://axolotz.github.io/mednotes
+baseURL: https://axolotz.github.io/mednotes
 languageCode: en-us
 title: Axolotz's Med Notes
 theme: hugo-book
